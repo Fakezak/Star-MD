@@ -1,13 +1,12 @@
 {
-  "name": "Star MD",
+  "name": "star-md",
   "version": "1.0.0",
-  "description": "Simple WhatsApp bot with /menu and /tagall",
+  "description": "Star MD WhatsApp bot with pairing code login",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^6.7.1",
-    "pino": "^8.14.1"
+    "@whiskeysockets/baileys": "^6.7.7"
   }
 }
