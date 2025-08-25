@@ -1,0 +1,13 @@
+{
+  "name": "Star MD",
+  "version": "1.0.0",
+  "description": "Simple WhatsApp bot with /menu and /tagall",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.1",
+    "pino": "^8.14.1"
+  }
+}
